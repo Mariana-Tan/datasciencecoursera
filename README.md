@@ -1,2 +1,3 @@
 # datasciencecoursera
-Materials for Data Science course on coursera
+
+Materials for Data Science course on coursera.
